@@ -43,7 +43,7 @@ public class TestScoreStatistics {
 		System.out.println("The total score is " + total);
 		System.out.println("The average score is " + average);
 		System.out.println("The lowest score is " + low);
-		System.out.println("The highest score is" + high);
+		System.out.println("The highest score is " + high);
 	}
 
 }
